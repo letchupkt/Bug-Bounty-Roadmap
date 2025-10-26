@@ -107,11 +107,6 @@ Phase 10: Success Mindset & Best Practices
 - [📄 Report Templates](resources/templates/)
 - [🎯 Vulnerability Cheat Sheets](vulnerabilities/)
 
-### Practice Labs
-- [🧪 Beginner Labs](practice-labs/beginner/)
-- [🔬 Intermediate Labs](practice-labs/intermediate/)
-- [🚀 Advanced Labs](practice-labs/advanced/)
-
 ## 🎖️ Achievements & Milestones
 
 Track your progress with our milestone system:
@@ -151,12 +146,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 > "Went from zero knowledge to $15K in bug bounties in my first year using this guide." - @sec_researcher
 
-## 📞 Support & Community
-
-- 💬 [Discord Community](https://discord.gg/bugbounty)
-- 🐦 [Twitter Updates](https://twitter.com/BugBountyRoadmap)
-- 📧 [Email Support](mailto:support@bugbountyroadmap.com)
-- 🎥 [YouTube Channel](https://youtube.com/BugBountyRoadmap)
 
 ## 🌟 About the Author
 
