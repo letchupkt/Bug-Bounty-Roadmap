@@ -107,11 +107,6 @@ Phase 10: Success Mindset & Best Practices
 - [📄 Report Templates](resources/templates/)
 - [🎯 Vulnerability Cheat Sheets](vulnerabilities/)
 
-### Practice Labs
-- [🧪 Beginner Labs](practice-labs/beginner/)
-- [🔬 Intermediate Labs](practice-labs/intermediate/)
-- [🚀 Advanced Labs](practice-labs/advanced/)
-
 ## 🎖️ Achievements & Milestones
 
 Track your progress with our milestone system:
