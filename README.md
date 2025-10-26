@@ -71,7 +71,6 @@ Phase 10: Success Mindset & Best Practices
 │   ├── 📂 ai-security/
 │   ├── 📂 api-security/
 │   ├── 📂 cloud-security/
-│   └── 📂 phase-10-assessment/
 ├── 📂 practice-labs/
 ├── 📂 writeups/
 ├── 📂 certifications/
