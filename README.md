@@ -71,8 +71,6 @@ Phase 10: Success Mindset & Best Practices
 │   ├── 📂 ai-security/
 │   ├── 📂 api-security/
 │   ├── 📂 cloud-security/
-├── 📂 practice-labs/
-├── 📂 writeups/
 ├── 📂 certifications/
 └── 📂 career-guidance/
 ```
@@ -167,7 +165,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### 🏆 Author's Achievements
 - **50+ Responsible Disclosures** across major platforms
 - **Security Researcher** specializing in web application vulnerabilities
-- **Community Educator** with 10,000+ learners worldwide
 - **Open Source Contributor** to various security projects
 
 ### 📚 Why This Roadmap?
